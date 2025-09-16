@@ -5,6 +5,23 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "dotenv": "^17.2.2",
+    "express": "^4.21.2",
+    "mongoose": "^8.18.1"
+  },
+  "version": "1.0.0",
+  "description": "Imagine you're building the backend for a simple **event management application**. Your task is to independently set up an **Express.js** server and connect it to a **MongoDB** database using **Mongoose**.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nashwa127/Setting-up-a-DB-and-connecting-to-Express-server---Practice-assignment-2-duplicated-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nashwa127/Setting-up-a-DB-and-connecting-to-Express-server---Practice-assignment-2-duplicated-/issues"
+  },
+  "homepage": "https://github.com/Nashwa127/Setting-up-a-DB-and-connecting-to-Express-server---Practice-assignment-2-duplicated-#readme"
 }
